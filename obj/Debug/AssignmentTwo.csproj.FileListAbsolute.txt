@@ -1,0 +1,7 @@
+E:\Grade 12\Computer Science\AssignmentTwo\AssignmentTwo\bin\Debug\AssignmentTwo.exe
+E:\Grade 12\Computer Science\AssignmentTwo\AssignmentTwo\bin\Debug\AssignmentTwo.pdb
+E:\Grade 12\Computer Science\AssignmentTwo\AssignmentTwo\obj\Debug\ResolveAssemblyReference.cache
+E:\Grade 12\Computer Science\AssignmentTwo\AssignmentTwo\obj\Debug\AssignmentTwo.exe
+E:\Grade 12\Computer Science\AssignmentTwo\AssignmentTwo\obj\Debug\AssignmentTwo.pdb
+E:\Grade 12\Computer Science\AssignmentTwo Bioinformatics\Bioinformatics\obj\Debug\AssignmentTwo.exe
+E:\Grade 12\Computer Science\AssignmentTwo Bioinformatics\Bioinformatics\obj\Debug\AssignmentTwo.pdb
